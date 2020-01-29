@@ -8,7 +8,7 @@ Full Specs:
 * Intel Core i7-7700HQ (Intel Core i7)
 * 32GB RAM
 * NVIDIA GeForce GTX 1070 (Laptop) - 8192 MB
-* 256GBxM.2 (Root partition Type: APS) + 1TBxSATA (Backup partition)
+* 256GB x M.2 (Root partition Type: APS) + 1TB x SATA (Backup partition)
 
 Working:
 * NVIDIA GTX 1070

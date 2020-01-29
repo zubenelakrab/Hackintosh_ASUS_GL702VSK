@@ -12,12 +12,26 @@ Full Specs:
 
 Working:
 * NVIDIA GTX 1070
+* Audio (Internal Speakers + HDMI Audio)
 * USB 3.0/3.1, Thunderbolt, USB Type C, HDMI, Mini Display Port, Card Reader
 
 Not working: 
 * Touchpad
+* WIFI + Bluetooth
+* Keyboard Backlight
+* Some FN keys
+* Temperature Sensors 
+
+# Creating USB Stick
+
+# Fixing USB Stick KEXTS
+
+# Installing
+
+
+# Post-Install
+## dush
 
 # High Sierra updates
-
-High Sierra can be updated, but after this action kexts path permissions must be fixed using Kext Wizard or Command Line.
+High Sierra can be updated from App Store but after this action kexts path permissions must be fixed using Kext Wizard (or command-line)
 

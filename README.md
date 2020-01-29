@@ -1,7 +1,7 @@
 # Hackintosh ASUS ROG STRIX GL702VSK
 Hackintosh Files for High Sierra 13.6 @ ASUS GL702VSK
 
-Software:
+**Software:**
 * Olarila (last image for High Sierra 13.6)
 
 **Specs:**
@@ -10,7 +10,7 @@ Software:
 * NVIDIA GeForce GTX 1070 (Laptop) - 8192 MB
 * 256GB x M.2 (Root partition Type: APS) + 1TB x SATA (Backup partition)
 
-Working:
+**Working:**
 * NVIDIA GTX 1070
 * Audio (Internal Speakers + HDMI Audio)
 * Ethernet
@@ -22,14 +22,14 @@ Working:
 * Battery
 * 4K Display (3840 x 2160) **No GSYNC.*
 
-Not working: 
+**Not working:** 
 * Touchpad
 * Built-in WIFI/Bluetooth card
 * Keyboard Backlight
 * Some FN keys
 * Temperature Sensors 
 
-Testing: 
+**Testing:** 
 * Built-in microphone
 
 # Creating USB Stick

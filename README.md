@@ -36,6 +36,11 @@ Hackintosh Files for High Sierra 13.6 @ ASUS GL702VSK
 
 # Fixing USB Stick KEXTS
 
+1. Mount your USB Stick EFI Volumen
+2. Replace all kexts in your EFI volumen with EFI.zip kexts (*/EFI/CLOVER/kexts/Other/*)
+3. Delete any other folder in /EFI/CLOVER/kexts (keep only Other)
+4. Restart & Boot with the USB Stick
+
 # Installing
 
 

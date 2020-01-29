@@ -14,13 +14,18 @@ Working:
 * NVIDIA GTX 1070
 * Audio (Internal Speakers + HDMI Audio)
 * USB 3.0/3.1, Thunderbolt, USB Type C, HDMI, Mini Display Port, Card Reader
+* Webcam
+* WIFI 2.4ghz + 5ghz (USB Dongle EDiMAX EW-7611UCB) *Bluetooth on this device won't work on OSX.
 
 Not working: 
 * Touchpad
-* WIFI + Bluetooth
+* WIFI + Bluetooth (internal wifi card)
 * Keyboard Backlight
 * Some FN keys
 * Temperature Sensors 
+
+
+
 
 # Creating USB Stick
 

@@ -46,6 +46,10 @@ Hackintosh Files for High Sierra 13.6 @ ASUS GL702VSK
 
 # Post-Install
 
+# DDST Patch
+
+**Working on it**
+
 # High Sierra updates
 High Sierra can be updated from App Store but after this action kexts path permissions must be fixed using Kext Wizard (or command-line)
 

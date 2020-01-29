@@ -4,7 +4,7 @@ Hackintosh Files for High Sierra 13.6 @ ASUS GL702VSK
 Software:
 * Olarila (last image for High Sierra 13.6)
 
-Specs:
+**Specs:**
 * Intel Core i7-7700HQ (Intel Core i7)
 * 32GB RAM
 * NVIDIA GeForce GTX 1070 (Laptop) - 8192 MB

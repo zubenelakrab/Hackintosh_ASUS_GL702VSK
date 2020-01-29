@@ -16,6 +16,9 @@ Working:
 * USB 3.0/3.1, Thunderbolt, USB Type C, HDMI, Mini Display Port, Card Reader
 * Webcam
 * WIFI 2.4ghz + 5ghz (USB Dongle EDiMAX EW-7611UCB) *Bluetooth on this device won't work on OSX.
+* CPU/GPU Fans
+* Battery
+* 4K Display (3840 x 2160) *No GSYNC 
 
 Not working: 
 * Touchpad
@@ -23,9 +26,6 @@ Not working:
 * Keyboard Backlight
 * Some FN keys
 * Temperature Sensors 
-
-
-
 
 # Creating USB Stick
 
@@ -35,7 +35,6 @@ Not working:
 
 
 # Post-Install
-## dush
 
 # High Sierra updates
 High Sierra can be updated from App Store but after this action kexts path permissions must be fixed using Kext Wizard (or command-line)

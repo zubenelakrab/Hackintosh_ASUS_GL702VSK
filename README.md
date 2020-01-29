@@ -18,7 +18,7 @@ Working:
 * WIFI 2.4ghz + 5ghz (USB Dongle EDiMAX EW-7611UCB) *Bluetooth on this device won't work on OSX.
 * CPU/GPU Fans
 * Battery
-* 4K Display (3840 x 2160) *No GSYNC 
+* 4K Display (3840 x 2160) **No GSYNC 
 
 Not working: 
 * Touchpad

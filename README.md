@@ -2,7 +2,7 @@
 Hackintosh Files for High Sierra 13.6 @ ASUS GL702VSK
 
 Software:
-Olarila lastest image for igh Sierra 13.6
+* Olarila (last image for High Sierra 13.6)
 
 Full Specs:
 * Intel Core i7-7700HQ (Intel Core i7)

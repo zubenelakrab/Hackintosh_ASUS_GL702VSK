@@ -1,6 +1,8 @@
 # Hackintosh ASUS ROG STRIX GL702VSK
 Hackintosh Files for High Sierra 13.6 @ ASUS GL702VSK
 
+![alt text](https://raw.githubusercontent.com/zubenelakrab/Hackintosh_ASUS_GL702VSK/master/About.jpeg)
+
 **Software:**
 * Olarila (last image for High Sierra 13.6)
 

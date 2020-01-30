@@ -23,15 +23,17 @@ Hackintosh Files for High Sierra 13.6 @ ASUS GL702VSK
 * CPU/GPU Fans
 * Battery
 * 4K Display (3840 x 2160) **No GSYNC.*
+* Belkin Mini Bluetooth V4.0 USB Adapter (F8T065)
+https://www.amazon.es/gp/product/B009IQB3US/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
 
-**Not working:** 
+**Not working:**
 * Touchpad
 * Built-in WIFI/Bluetooth card
 * Keyboard Backlight
 * Some FN keys
-* Temperature Sensors 
+* Temperature Sensors
 
-**Testing:** 
+**Testing:**
 * Built-in microphone
 
 # Creating USB Stick
@@ -54,4 +56,3 @@ Hackintosh Files for High Sierra 13.6 @ ASUS GL702VSK
 
 # High Sierra updates
 High Sierra can be updated from App Store but after this action kexts path permissions must be fixed using Kext Wizard (or command-line)
-

@@ -36,6 +36,10 @@ https://www.amazon.es/gp/product/B009IQB3US/ref=ppx_yo_dt_b_asin_title_o01_s00?i
 **Testing:**
 * Built-in microphone
 
+# Abbreviations
+* /L/E = /Library/Extensions
+* /S/L/E = /System/Library/Extensions
+
 # Creating USB Stick
 
 # Fixing USB Stick KEXTS
@@ -49,6 +53,32 @@ https://www.amazon.es/gp/product/B009IQB3US/ref=ppx_yo_dt_b_asin_title_o01_s00?i
 
 
 # Post-Install
+
+# Bluetooth
+
+Built-in bluetooth *MUST* be disabled after try anything.
+
+**How?**
+1. Open Clover Configurator
+2. Mount your EFI
+3. Import your /EFI/CLOVER/config.plist
+4. Go to Boot Menu (below Acpi)
+5. Add an extra argument: uia_exclude=HS09
+6. Reboot
+
+**Why HS09?**
+1. Download Hackingtool & Install
+2. Open it and go to the USB tab
+3. Find for USB Device: IOUSBHostDevice
+4. Got it, that is your Bluetooth HCI (Internal)
+5. DISABLE IT!
+
+**Enable your BT USB**
+1. Download Bluetooth kext folder.
+2. Copy them to /L/E
+3. Run on terminal *sudo kextcache -i /*
+4. Reboot
+5. Enjoy your BT working
 
 # DDST Patch
 

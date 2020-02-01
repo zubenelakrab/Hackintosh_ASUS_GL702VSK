@@ -49,6 +49,10 @@ https://www.amazon.es/gp/product/B009IQB3US/ref=ppx_yo_dt_b_asin_title_o01_s00?i
 3. Delete any other folder in /EFI/CLOVER/kexts (keep only Other)
 4. Restart & Boot with your USB Stick
 
+# Pre-Install 
+
+DISABLE(Lock) Wifi + Bluetooth in your BIOS. 
+
 # Installing
 
 

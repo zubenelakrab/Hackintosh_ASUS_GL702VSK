@@ -36,11 +36,36 @@ https://www.amazon.es/gp/product/B009IQB3US/ref=ppx_yo_dt_b_asin_title_o01_s00?i
 **Testing:**
 * Built-in microphone
 
+**Tips**
+After install kexts check permissions and update kextcache 
+
+a. to repair permissions use Kext Wizard or 
+
+```
+sudo chmod -Rf 755 /S*/L*/E*
+sudo chmod -Rf 755 /L*/E*
+sudo chown -Rf 0:0 /S*/L*/E*
+sudo chown -Rf 0:0 /L*/E*
+```
+
+b. to update kextcache
+
+```
+sudo kextcache -i /
+```
+
 # Abbreviations
 * /L/E = /Library/Extensions
 * /S/L/E = /System/Library/Extensions
 
 # Creating USB Stick
+
+# Battery + Sensors
+
+1. Apply DSDT Patch 
+2. Install FakeSMC (*/EFI/CLOVER/kexts/Other/*)
+
+![alt text](https://raw.githubusercontent.com/zubenelakrab/Hackintosh_ASUS_GL702VSK/master/bat_sensors.jpeg)
 
 # Fixing USB Stick KEXTS
 

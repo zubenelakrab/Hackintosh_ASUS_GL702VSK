@@ -112,7 +112,7 @@ Built-in bluetooth *MUST* be disabled after try anything.
 
 # DDST Patch
 
-**Working on it**
+* Added Battery patch
 
 # High Sierra updates
 High Sierra can be updated from App Store but after this action kexts path permissions must be fixed using Kext Wizard (or command-line)

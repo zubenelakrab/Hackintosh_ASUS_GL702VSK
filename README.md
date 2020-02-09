@@ -15,6 +15,7 @@ Hackintosh Files for High Sierra 13.6 @ ASUS GL702VSK
 **Working:**
 * NVIDIA GTX 1070
 * Audio (Internal Speakers + HDMI Audio)
+* Sensors 
 * Ethernet
 * Audio Jack
 * USB 3.0/3.1, Thunderbolt, USB Type C, HDMI, Mini Display Port, Card Reader
